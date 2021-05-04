@@ -73,4 +73,32 @@ ul{
   background-color: #ecc94b;
 }
 
-/*  */
+/* cirtification information article */
+
+#certificationInfo{
+  width: 100%;
+  background-color: #fbd38d;
+}
+
+#infoHeading{
+  width: 100%;
+  text-align: center;
+  padding: 1em;
+  font-size: 2.1em;
+  font-family: 'Raleway' , Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#infoSpace{
+  width: 100%;
+  padding: 0  1em 1em 1em;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.certificateInfo{
+  flex: 1;
+  padding: 1em;
+  border: 1em solid orangered;
+  background-color: orange;
+  font-family: 'Raleway' , Tahoma, Geneva, Verdana, sans-serif;
+}
